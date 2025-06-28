@@ -68,7 +68,7 @@ Key visualizations:
 - Fraud rate vs hour of day
 - Confusion matrix (TP, FP, TN, FN)
 
-![Model Comparison](screenshots/confusion-matrix.png)
+![Model Comparison](Model_comparison.png)
 
 ---
 
