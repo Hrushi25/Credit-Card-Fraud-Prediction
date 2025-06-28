@@ -2,7 +2,7 @@
 
 An interactive fraud detection system that uses machine learning to predict the likelihood of a transaction being fraudulent. The system includes both a backend ML model and a frontend dashboard for visual analysis and transaction simulation.
 
-![App UI](screenshots/credit-fraud-ui.png)
+![App UI](App UI.png)
 
 ---
 
